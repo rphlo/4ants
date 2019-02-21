@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '4ants mono';
+    src: url('4ants-mono.woff2') format('woff2'),
+        url('4ants-mono.woff') format('woff'),
+        url('4ants-mono.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
