@@ -184,7 +184,15 @@
 <div class="page">
     <div class="demo" style="font-family: '4ants mono'; font-weight: normal; font-style: normal;">
         <h1>4ants mono Regular</h1>
-        <pre>.your-style {
+        <pre>@font-face {
+    font-family: '4ants mono';
+    src: url('4ants-mono.woff2') format('woff2'),
+        url('4ants-mono.woff') format('woff'),
+        url('4ants-mono.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+.your-style {
     font-family: '4ants mono';
     font-weight: normal;
     font-style: normal;
