@@ -1,8 +1,8 @@
 @font-face {
     font-family: '4ants mono';
-    src: url('./4ants-mono.woff2') format('woff2'),
-        url('./4ants-mono.woff') format('woff'),
-        url('./4ants-mono.ttf') format('truetype');
+    src: url('//rawcdn.githack.com/rphlo/4ants/badc4ff437e9bf58efaec9077b6296cadf0b65bd/4ants-mono.woff2') format('woff2'),
+        url('//rawcdn.githack.com/rphlo/4ants/badc4ff437e9bf58efaec9077b6296cadf0b65bd/4ants-mono.woff') format('woff'),
+        url('//rawcdn.githack.com/rphlo/4ants/badc4ff437e9bf58efaec9077b6296cadf0b65bd/4ants-mono.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
